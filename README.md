@@ -1,1 +1,1 @@
-# G2-physician-availability-service
+# g2-physician-availability-service
